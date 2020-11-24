@@ -1,4 +1,4 @@
-## 👋 Hey there
+### 👋 Hey there
 
 I'm Johannes, a machine learning engineer from Berlin. I'm interested in deep learning, software engineering, neuroscience, and (most recently) product management. I studied computational neuroscience (M.Sc.) and physics (B.Sc.).
 
@@ -8,7 +8,7 @@ I'm Johannes, a machine learning engineer from Berlin. I'm interested in deep le
 
 <br>
 
-## 🤖 How to reach me
+### 🤖 How to reach me
 
 - 📮 Write at johannes.rieke@gmail.com
 - 🐦 Follow [@jrieke](https://twitter.com/jrieke)
@@ -18,7 +18,7 @@ I'm Johannes, a machine learning engineer from Berlin. I'm interested in deep le
 
 <br>
 
-## 🧙 What I work on
+### 🧙 What I work on
 
 Read here: https://jrieke.github.io/
 
