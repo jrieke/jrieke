@@ -8,7 +8,7 @@ I'm Johannes, a machine learning engineer from Berlin. I'm interested in deep le
 
 ### 🤖 How to reach me
 
-- 📮 Write at johannes.rieke@gmail.com
+- 📮 Write [me](johannes.rieke@gmail.com)
 - 🐦 Follow [@jrieke](https://twitter.com/jrieke)
 - 👔 Connect on [LinkedIn](https://www.linkedin.com/in/johannesrieke/)
 - 📚 Read my thoughts on [Medium](https://medium.com/@jrieke)
