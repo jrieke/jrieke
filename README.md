@@ -2,7 +2,7 @@
 
 Hi, I'm Johannes, a machine learning engineer from Berlin. 
 
-I'm interested in deep learning, software engineering, neuroscience, and (most recently) product management. I studied computational neuroscience (M.Sc.) and physics (B.Sc.).
+I'm interested in deep learning, natural language processing, software engineering, neuroscience, and (most recently) product management. I studied computational neuroscience (M.Sc.) and physics (B.Sc.).
 
 **NEW:** I'm looking for jobs at ML startups (fulltime or freelance). [View resume.](https://jrieke.github.io/CV_Johannes_Rieke.pdf) 
 
