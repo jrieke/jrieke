@@ -19,7 +19,7 @@ I'm interested in deep learning, natural language processing, software engineeri
 
 ### 🧙 What I work on
 
-Read here: https://jrieke.github.io/
+Read here: https://www.jrieke.com/
 
 <!--
 Explore some recent projects:
