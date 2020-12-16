@@ -13,7 +13,7 @@ I'm interested in deep learning, natural language processing, software engineeri
 ### 🤖 How to reach me
 
 - 📮 Write johannes.rieke@gmail.com
-- 🐦 Follow [@jrieke](https://twitter.com/jrieke)
+- 🐦 Follow on Twitter [@jrieke](https://twitter.com/jrieke)
 - 👔 Connect on [LinkedIn](https://www.linkedin.com/in/johannesrieke/)
 - 📚 Read my thoughts on [Medium](https://medium.com/@jrieke)
 
