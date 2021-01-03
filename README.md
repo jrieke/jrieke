@@ -6,7 +6,7 @@ I'm interested in deep learning, natural language processing, neuroscience, soft
 
 Contact info + recent projects on my website: https://www.jrieke.com/
 
-**🎈 NEW: I'm looking for jobs in ML engineering or product management. [View resume.](https://jrieke.github.io/CV_Johannes_Rieke.pdf)**
+**🎈 NEW: I'm looking for jobs in ML engineering or product management (freelance or fulltime). [View resume.](https://jrieke.github.io/CV_Johannes_Rieke.pdf)**
 
 
 <!--
