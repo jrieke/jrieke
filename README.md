@@ -1,12 +1,12 @@
 ### Hey there 👋 
 
-**NEW: I'm looking for jobs in ML engineering or product management. [View resume.](https://jrieke.github.io/CV_Johannes_Rieke.pdf)**
-
 Hi, I'm Johannes, a machine learning engineer from Berlin. 
 
 I'm interested in deep learning, natural language processing, software engineering, neuroscience, and (most recently) product management. I studied computational neuroscience (M.Sc.) and physics (B.Sc.).
 
 Contact info + recent projects on my website: https://www.jrieke.com/
+
+**👔 NEW: I'm looking for jobs in ML engineering or product management. [View resume.](https://jrieke.github.io/CV_Johannes_Rieke.pdf)**
 
 
 <!--
