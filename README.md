@@ -1,6 +1,6 @@
 ![](https://media.giphy.com/media/mrVP75mtRNnmE/giphy.gif)
 
-I recently started working as a product engineer @streamlit. Find out more about me: https://www.jrieke.com/
+I recently started working as a product engineer [@streamlit](https://github.com/streamlit). Find out more about me: https://www.jrieke.com/
 
 
 <!--
