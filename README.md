@@ -1,12 +1,6 @@
-### Hey there 👋 
+![](https://media.giphy.com/media/mrVP75mtRNnmE/giphy.gif)
 
-I'm Johannes, a machine learning engineer from Berlin. 
-
-I'm interested in deep learning, natural language processing, neuroscience, software engineering, and product management. I build open-source tools on the side, mostly for machine learning. My background is in computational neuroscience (M.Sc.) and physics (B.Sc.).
-
-Contact info + recent projects on my website: https://www.jrieke.com/
-
-**🎈 NEW: I'm looking for jobs in ML engineering or product management (freelance or fulltime). [View resume.](https://jrieke.github.io/CV_Johannes_Rieke.pdf)**
+I recently started working as a product engineer @streamlit. Find out more about me: https://www.jrieke.com/
 
 
 <!--
@@ -24,28 +18,4 @@ Contact info + recent projects on my website: https://www.jrieke.com/
 ### 🧙 What I work on
 
 Read here: https://www.jrieke.com/
--->
-
-<!--
-Explore some recent projects:
-
-<details>
-  <summary>Sample Project</summary>
-  
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-</details>
-
-<details>
-  <summary>Another project</summary>
-  
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-</details>
 -->
