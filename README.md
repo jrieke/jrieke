@@ -1,4 +1,4 @@
-<a href="https://www.jrieke.com/"><img src="https://media.giphy.com/media/pBQsB6tQkaMUDgCWfa/giphy.gif" width=1500></a>
+<a href="https://www.jrieke.com/"><img src="https://media.giphy.com/media/pBQsB6tQkaMUDgCWfa/giphy.gif"></a>
 
 Hey there! 👋 I'm Johannes, a software engineering/machine learning/product person, who studied neuroscience & physics. I recently started working as a product engineer [@streamlit](https://github.com/streamlit). Find out more about me at: www.jrieke.com
 
