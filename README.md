@@ -1,4 +1,6 @@
+<!--
 <a href="https://www.jrieke.com/"><img src="https://media.giphy.com/media/mrVP75mtRNnmE/giphy.gif" width=1500></a>
+-->
 
 Hey there! 👋 I'm Johannes, a product manager for developer experience at [@streamlit](https://github.com/streamlit). My background is in physics, neuroscience, and machine learning. Find out more about me at: www.jrieke.com
 
