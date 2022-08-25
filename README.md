@@ -2,7 +2,7 @@
 <a href="https://www.jrieke.com/"><img src="https://media.giphy.com/media/mrVP75mtRNnmE/giphy.gif" width=1500></a>
 -->
 
-Hey there, I'm Johannes! 👋 I'm a product manager at [@streamlit](https://github.com/streamlit), where I'm responsible for Streamlit's [open-source library](https://github.com/streamlit/streamlit) (20k ⭐️). My background is in physics, neuroscience, and machine learning. I tweet under [@jrieke](https://twitter.com/jrieke) and you can find out more about me at: www.jrieke.com
+Hey there, I'm Johannes! 👋 I'm a product manager at [@streamlit](https://github.com/streamlit), where I'm responsible for Streamlit's [open-source library](https://github.com/streamlit/streamlit) (20k ⭐️). My background is in physics, neuroscience, and machine learning. Write me on Twitter ([@jrieke](https://twitter.com/jrieke)) or find out more about me at: www.jrieke.com
 
 
 <!--
